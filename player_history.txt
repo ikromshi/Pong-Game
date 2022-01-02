@@ -1,0 +1,4 @@
+Oscar: 2
+Greg: 0
+Daria: 3
+Ikrom: 4
